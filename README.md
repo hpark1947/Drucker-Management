@@ -13,4 +13,5 @@
 | 자기경영노트 | The Effective Executive (1967) | [Prompts/자기경영노트.md](Prompts/자기경영노트.md) |
 | 미래기업 | Managing for the Future (1992) | [Prompts/미래기업.md](Prompts/미래기업.md) |
 | 피터 드러커의 마지막 통찰 | The Definitive Drucker (2006) | [Prompts/마지막_통찰.md](Prompts/마지막_통찰.md) |
+| 넥스트 소사이어티 | Managing in the Next Society (2002) | [Prompts/넥스트_소사이어티.md](Prompts/넥스트_소사이어티.md) |
 
