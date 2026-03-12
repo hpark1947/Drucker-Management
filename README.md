@@ -9,3 +9,4 @@
 | 프로페셔널의 조건 | The Essential Drucker — Part II: The Individual | [Prompts/프로페셔널의_조건.md](Prompts/프로페셔널의_조건.md) |
 | 변화 리더의 조건 | The Essential Drucker — Part I: Management | [Prompts/변화_리더의_조건.md](Prompts/변화_리더의_조건.md) |
 | 이노베이터의 조건 | The Essential Drucker — Part III: Society | [Prompts/이노베이터의_조건.md](Prompts/이노베이터의_조건.md) |
+| 창조하는 경영자 | Managing for Results (1964) | [Prompts/창조하는_경영자.md](Prompts/창조하는_경영자.md) |
