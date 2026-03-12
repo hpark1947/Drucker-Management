@@ -11,4 +11,5 @@
 | 이노베이터의 조건 | The Essential Drucker — Part III: Society | [Prompts/이노베이터의_조건.md](Prompts/이노베이터의_조건.md) |
 | 창조하는 경영자 | Managing for Results (1964) | [Prompts/창조하는_경영자.md](Prompts/창조하는_경영자.md) |
 | 자기경영노트 | The Effective Executive (1967) | [Prompts/자기경영노트.md](Prompts/자기경영노트.md) |
+| 미래기업 | Managing for the Future (1992) | [Prompts/미래기업.md](Prompts/미래기업.md) |
 
