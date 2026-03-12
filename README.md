@@ -1,0 +1,11 @@
+# Drucker Management
+
+피터 드러커(Peter Drucker)의 경영학 저서를 조사·분석·정리하는 프로젝트
+
+## 정리 완료 문서
+
+| 서적 | 원제 | 파일 |
+|------|------|------|
+| 프로페셔널의 조건 | The Essential Drucker — Part II: The Individual | [Prompts/프로페셔널의_조건.md](Prompts/프로페셔널의_조건.md) |
+| 변화 리더의 조건 | The Essential Drucker — Part I: Management | [Prompts/변화_리더의_조건.md](Prompts/변화_리더의_조건.md) |
+| 이노베이터의 조건 | The Essential Drucker — Part III: Society | [Prompts/이노베이터의_조건.md](Prompts/이노베이터의_조건.md) |
