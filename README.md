@@ -22,5 +22,6 @@
 | 21세기 지식경영 | Management Challenges for the 21st Century (1999) | [Prompts/21세기_지식경영.md](Prompts/21세기_지식경영.md) |
 | 기업가정신 | Innovation and Entrepreneurship (1985) | [Prompts/기업가정신.md](Prompts/기업가정신.md) |
 | 최고의 질문 | Peter Drucker's Five Most Important Questions (2015) | [Prompts/최고의_질문.md](Prompts/최고의_질문.md) |
+| 피터 드러커 강의 | The Drucker Lectures (2010) | [Prompts/피터_드러커_강의.md](Prompts/피터_드러커_강의.md) |
 | 이미 일어난 미래 | 이재규 저 · 피터 드러커 연구서 (2010) | [관련서적/이미_일어난_미래.md](관련서적/이미_일어난_미래.md) |
 
