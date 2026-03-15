@@ -17,4 +17,5 @@
 | 단절의 시대 | The Age of Discontinuity (1969) | [Prompts/단절의_시대.md](Prompts/단절의_시대.md) |
 | 경제인의 종말 | The End of Economic Man (1939) | [Prompts/경제인의_종말.md](Prompts/경제인의_종말.md) |
 | 경영의 실제 | The Practice of Management (1954) | [Prompts/경영의_실제.md](Prompts/경영의_실제.md) |
+| 자본주의 이후의 사회 | Post-Capitalist Society (1993) | [Prompts/자본주의_이후의_사회.md](Prompts/자본주의_이후의_사회.md) |
 
