@@ -19,4 +19,5 @@
 | 경영의 실제 | The Practice of Management (1954) | [Prompts/경영의_실제.md](Prompts/경영의_실제.md) |
 | 자본주의 이후의 사회 | Post-Capitalist Society (1993) | [Prompts/자본주의_이후의_사회.md](Prompts/자본주의_이후의_사회.md) |
 | CEO의 8가지 덕목 | What Makes an Effective Executive (2004 HBR) 외 | [Prompts/CEO의_8가지_덕목.md](Prompts/CEO의_8가지_덕목.md) |
+| 21세기 지식경영 | Management Challenges for the 21st Century (1999) | [Prompts/21세기_지식경영.md](Prompts/21세기_지식경영.md) |
 
