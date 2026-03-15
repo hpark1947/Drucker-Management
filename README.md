@@ -15,4 +15,5 @@
 | 피터 드러커의 마지막 통찰 | The Definitive Drucker (2006) | [Prompts/마지막_통찰.md](Prompts/마지막_통찰.md) |
 | 넥스트 소사이어티 | Managing in the Next Society (2002) | [Prompts/넥스트_소사이어티.md](Prompts/넥스트_소사이어티.md) |
 | 단절의 시대 | The Age of Discontinuity (1969) | [Prompts/단절의_시대.md](Prompts/단절의_시대.md) |
+| 경제인의 종말 | The End of Economic Man (1939) | [Prompts/경제인의_종말.md](Prompts/경제인의_종말.md) |
 
