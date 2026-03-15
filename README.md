@@ -16,4 +16,5 @@
 | 넥스트 소사이어티 | Managing in the Next Society (2002) | [Prompts/넥스트_소사이어티.md](Prompts/넥스트_소사이어티.md) |
 | 단절의 시대 | The Age of Discontinuity (1969) | [Prompts/단절의_시대.md](Prompts/단절의_시대.md) |
 | 경제인의 종말 | The End of Economic Man (1939) | [Prompts/경제인의_종말.md](Prompts/경제인의_종말.md) |
+| 경영의 실제 | The Practice of Management (1954) | [Prompts/경영의_실제.md](Prompts/경영의_실제.md) |
 
