@@ -21,4 +21,5 @@
 | CEO의 8가지 덕목 | What Makes an Effective Executive (2004 HBR) 외 | [Prompts/CEO의_8가지_덕목.md](Prompts/CEO의_8가지_덕목.md) |
 | 21세기 지식경영 | Management Challenges for the 21st Century (1999) | [Prompts/21세기_지식경영.md](Prompts/21세기_지식경영.md) |
 | 기업가정신 | Innovation and Entrepreneurship (1985) | [Prompts/기업가정신.md](Prompts/기업가정신.md) |
+| 최고의 질문 | Peter Drucker's Five Most Important Questions (2015) | [Prompts/최고의_질문.md](Prompts/최고의_질문.md) |
 
