@@ -25,6 +25,7 @@
 | 피터 드러커 강의 | The Drucker Lectures (2010) | [Prompts/피터_드러커_강의.md](Prompts/피터_드러커_강의.md) |
 | 21세기 리더의 선택 | The Leader of the Future (1996) | [Prompts/21세기_리더의_선택.md](Prompts/21세기_리더의_선택.md) |
 | 피터 드러커의 위대한 혁신 | Peter F. Drucker on Innovation (2006) | [Prompts/위대한_혁신.md](Prompts/위대한_혁신.md) |
+| 붓의 노래 | Song of the Brush (1979) | [Prompts/붓의_노래.md](Prompts/붓의_노래.md) |
 | 피터 드러커 리더스 윈도우 | Drucker on Leadership (2010, 윌리엄 코헨 저) | [관련서적/리더스_윈도우.md](관련서적/리더스_윈도우.md) |
 | 경영의 원점 | Management Basic (2015, 이재규 저) | [관련서적/경영의_원점.md](관련서적/경영의_원점.md) |
 | 이미 일어난 미래 | 이재규 저 · 피터 드러커 연구서 (2010) | [관련서적/이미_일어난_미래.md](관련서적/이미_일어난_미래.md) |
