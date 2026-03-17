@@ -24,5 +24,6 @@
 | 최고의 질문 | Peter Drucker's Five Most Important Questions (2015) | [Prompts/최고의_질문.md](Prompts/최고의_질문.md) |
 | 피터 드러커 강의 | The Drucker Lectures (2010) | [Prompts/피터_드러커_강의.md](Prompts/피터_드러커_강의.md) |
 | 21세기 리더의 선택 | The Leader of the Future (1996) | [Prompts/21세기_리더의_선택.md](Prompts/21세기_리더의_선택.md) |
+| 피터 드러커 리더스 윈도우 | Drucker on Leadership (2010, 윌리엄 코헨 저) | [관련서적/리더스_윈도우.md](관련서적/리더스_윈도우.md) |
 | 이미 일어난 미래 | 이재규 저 · 피터 드러커 연구서 (2010) | [관련서적/이미_일어난_미래.md](관련서적/이미_일어난_미래.md) |
 
